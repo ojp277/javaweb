@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+
+.infoprofiel{
+  margin: 1%;
+  padding: 5%;
+}
+
+p{
+  font-family: 'Muli', sans-serif;
+  text-decoration: none;
+}
+
+a{
+  font-family: 'Muli', sans-serif;
+  text-decoration: none;
+  color: black;
+  transition: 0.3s;
+}
+
+a:hover{
+  color: #ff2600;
+  text-shadow: 0.7px 0.7px black;
+  transition: 0.3s;
+}
+
+h1{
+  font-family: 'Muli', sans-serif;
+  font-size: 150%;
+}
+
+.pr{
+  font-family: 'Muli', sans-serif;
+  font-size: 150%;
+  color: white;
+}
+
+.profiel{
+  font-family: 'Muli', sans-serif;
+  font-size: 150%;
+  color: white;
+}
+
+.info3{
+  color: white;
+}
+
+.info2{
+  color: white;
+}
+
+.info1{
+  color: white;
+}
+
+.button {
+    background-color: Transparent;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button {
+    background-color: Transparent;
+    color: white;
+    border: 2px solid white;
+}
+
+.button:hover {
+    background-color: white;
+    color: black;
+}
+
+.button2 {
+    background-color: Transparent;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button2 {
+    background-color: Transparent;
+    color: white;
+    border: 2px solid white;
+}
+
+.button2:hover {
+    background-color: white;
+    color: black;
+}
+
+.button3 {
+    background-color: Transparent;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button3 {
+    background-color: Transparent;
+    color: white;
+    border: 2px solid white;
+}
+
+.button3:hover {
+    background-color: white;
+    color: black;
+    width: 150px;
+    height: 50px;
+}
+
+img{
+    position:absolute;
+    left:0px;
+    top:102px;
+    z-index:-1;
+    float: bottom;
+}
+
+.hobbys {
+    color: white;
+    position: absolute;
+    left: 3.5%;
+    top: 131.5%;
+}
+
+.info2 {
+    position: absolute;
+    left: 3.5%;
+    top: 136.5%;
+}
+
+.button2 {
+    position: absolute;
+    left: 3.5%;
+    top: 142.5%;
+}
+
+.profiel {
+  color: white;
+    position: absolute;
+    left: 3.5%;
+    top: 15%;
+}
+
+.info1 {
+    position: absolute;
+    left: 3.5%;
+    top: 20%;
+}
+
+.button {
+    position: absolute;
+    left: 3.5%;
+    top: 26%;
+}
+
+.gaming {
+  color: white;
+    position: absolute;
+    left: 52.5%;
+    top: 131.5%;
+}
+
+.info3 {
+    position: absolute;
+    left: 52.5%;
+    top: 136.5%;
+}
+
+.button3 {
+    position: absolute;
+    left: 52.5%;
+    top: 142.5%;
+}
+
+.zwibbee{
+  position:absolute;
+  left:0px;
+  top:400px;
+  z-index:-1;
+  float: bottom;
+}
+
+.jurjen{
+  position: absolute;
+  left:7%;
+  top: 130%;
+  right: 7%;
+}
+
+.ik{
+  position: absolute;
+  top: 150%;
+}
+
+
+.YT{
+  font-family: 'Muli', sans-serif;
+  text-decoration: none;
+  color: #FF0000;
+  transition: 0.3s;
+}
+
+.YT:hover{
+  color: #FF0000;
+  text-shadow: 0.7px 0.7px black;
+  transition: 0.3s;
+}
+
+.twitch{
+  font-family: 'Muli', sans-serif;
+  text-decoration: none;
+  color: #6034b1;
+  transition: 0.3s;
+}
+
+.twitch:hover{
+  color: #6034b1;
+  text-shadow: 0.7px 0.7px black;
+  transition: 0.3s;
+}
+
+body {
+  transition: background-color 10s;
+}
+
+/*Copyright © 2018 Otto All rights reserved. | Terms and Conditions | Privacy Policy*/
